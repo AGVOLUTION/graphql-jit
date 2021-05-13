@@ -1,4 +1,5 @@
-dist
+# include dist as workaround until PR merged in original package
+# dist
 node_modules
 /coverage
 *.log
