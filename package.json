@@ -1,5 +1,5 @@
 {
-  "name": "graphql-jit",
+  "name": "@agvolution/graphql-jit",
   "version": "0.5.1-fix-inf-var",
   "description": "GraphQL JIT Compiler to JS",
   "main": "dist/index.js",
